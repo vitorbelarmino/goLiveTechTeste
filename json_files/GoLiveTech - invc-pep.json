@@ -1,0 +1,32 @@
+{
+  "InvoiceNumber": "5555",
+  "Date": "2024/05/05",
+  "BilledTo": "PEPSICO",
+  "BusinessNumberInBR": "00.098.693/0001-05",
+  "Details": [
+    {
+      "Service": "KPI automation",
+      "OnUSCheck": "7500.00",
+      "CashIn": "100,000.00",
+      "CashOut": "0",
+      "NotOnUSCheck": "0",
+      "Taxes": "1,395.00"
+    },
+    {
+      "Service": "HSE system",
+      "OnUSCheck": "500,00",
+      "CashIn": "10,000.00",
+      "CashOut": "0",
+      "NotOnUSCheck": "0",
+      "Taxes": "139,50"
+    },
+    {
+      "Service": "Power Apps",
+      "OnUSCheck": "0",
+      "CashIn": "1,000.00",
+      "CashOut": "0",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    }
+  ]
+}

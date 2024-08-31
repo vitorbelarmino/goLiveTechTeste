@@ -1,0 +1,56 @@
+{
+  "InvoiceNumber": "0432",
+  "Date": "2023/04/04",
+  "BilledTo": "Cooper Pharma",
+  "BusinessNumberInBR": "46.635.965/0001-51",
+  "Details": [
+    {
+      "Service": "SAP Automation",
+      "OnUSCheck": "2500,0",
+      "CashIn": "2500,0",
+      "CashOut": "0",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    },
+    {
+      "Service": "HPLC OCR",
+      "OnUSCheck": "3569,88",
+      "CashIn": "3569,88",
+      "CashOut": "0",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    },
+    {
+      "Service": "Power Bl development",
+      "OnUSCheck": "6669,44",
+      "CashIn": "6669,44",
+      "CashOut": "36,69",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    },
+    {
+      "Service": "Power Apps development",
+      "OnUSCheck": "12.300,00",
+      "CashIn": "12.300,00",
+      "CashOut": "0",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    },
+    {
+      "Service": "- Ticket system",
+      "OnUSCheck": "8996,54",
+      "CashIn": "8996,54",
+      "CashOut": "0",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    },
+    {
+      "Service": "HR onboarding",
+      "OnUSCheck": "0",
+      "CashIn": "0",
+      "CashOut": "0",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    }
+  ]
+}

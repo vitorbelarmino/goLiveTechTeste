@@ -1,0 +1,16 @@
+{
+  "InvoiceNumber": "1672",
+  "Date": "2022/12/08",
+  "BilledTo": "Aspen Pharma",
+  "BusinessNumberInBR": "Cash In",
+  "Details": [
+    {
+      "Service": "Product demand forecast dashboard,",
+      "OnUSCheck": "0",
+      "CashIn": "0",
+      "CashOut": "0",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    }
+  ]
+}

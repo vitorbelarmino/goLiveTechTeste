@@ -1,0 +1,15 @@
+/home/vitor/goLiveTechTeste/goLiveTechTeste/obj/Debug/net6.0/goLiveTechTeste.csproj.AssemblyReference.cache
+/home/vitor/goLiveTechTeste/goLiveTechTeste/obj/Debug/net6.0/goLiveTechTeste.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitor/goLiveTechTeste/goLiveTechTeste/obj/Debug/net6.0/goLiveTechTeste.AssemblyInfoInputs.cache
+/home/vitor/goLiveTechTeste/goLiveTechTeste/obj/Debug/net6.0/goLiveTechTeste.AssemblyInfo.cs
+/home/vitor/goLiveTechTeste/goLiveTechTeste/obj/Debug/net6.0/goLiveTechTeste.csproj.CoreCompileInputs.cache
+/home/vitor/goLiveTechTeste/goLiveTechTeste/bin/Debug/net6.0/goLiveTechTeste
+/home/vitor/goLiveTechTeste/goLiveTechTeste/bin/Debug/net6.0/goLiveTechTeste.deps.json
+/home/vitor/goLiveTechTeste/goLiveTechTeste/bin/Debug/net6.0/goLiveTechTeste.runtimeconfig.json
+/home/vitor/goLiveTechTeste/goLiveTechTeste/bin/Debug/net6.0/goLiveTechTeste.dll
+/home/vitor/goLiveTechTeste/goLiveTechTeste/bin/Debug/net6.0/ref/goLiveTechTeste.dll
+/home/vitor/goLiveTechTeste/goLiveTechTeste/bin/Debug/net6.0/goLiveTechTeste.pdb
+/home/vitor/goLiveTechTeste/goLiveTechTeste/obj/Debug/net6.0/goLiveTechTeste.dll
+/home/vitor/goLiveTechTeste/goLiveTechTeste/obj/Debug/net6.0/ref/goLiveTechTeste.dll
+/home/vitor/goLiveTechTeste/goLiveTechTeste/obj/Debug/net6.0/goLiveTechTeste.pdb
+/home/vitor/goLiveTechTeste/goLiveTechTeste/obj/Debug/net6.0/goLiveTechTeste.genruntimeconfig.cache

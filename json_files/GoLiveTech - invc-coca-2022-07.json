@@ -1,0 +1,32 @@
+{
+  "InvoiceNumber": "0001",
+  "Date": "2022/07/01",
+  "BilledTo": "Coca-cola",
+  "BusinessNumberInBR": "45.997.418/0017-10",
+  "Details": [
+    {
+      "Service": "Duplicate invoice payment detection",
+      "OnUSCheck": "6,500",
+      "CashIn": "0",
+      "CashOut": "500.00",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    },
+    {
+      "Service": "HR onboarding registration",
+      "OnUSCheck": "9,366.99",
+      "CashIn": "981.98",
+      "CashOut": "1,500.00",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    },
+    {
+      "Service": "automation",
+      "OnUSCheck": "0",
+      "CashIn": "0",
+      "CashOut": "0",
+      "NotOnUSCheck": "0",
+      "Taxes": "0"
+    }
+  ]
+}
